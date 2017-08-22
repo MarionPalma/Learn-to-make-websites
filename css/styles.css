@@ -1,1 +1,21 @@
 
+body {
+	background-color: #FF5400;
+}
+.container {
+	margin-top: 10px;
+}
+
+.thumbnail {
+	background-color: #FFCC02;
+}
+
+#footer {
+  text-align: center;
+  font-size:12px;
+}
+
+#myCarousel {
+	margin: 15px;
+}
+
